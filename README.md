@@ -5,4 +5,6 @@ After completion of cloning the repository please run Helicopter.html to play th
 Known Issues:
 Sound is supported in all browsers except Google chrome cause of Google file security protection policy.
 
+![alt text](https://github.com/PhaserGames/HelicopterShooter/blob/master/Screenshot_1.png)
+
 Enjoj playing the game, Dino
